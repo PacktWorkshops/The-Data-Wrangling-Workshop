@@ -20,9 +20,12 @@ While a huge amount of data is readily available to us, it is not useful in its 
 If you’re a beginner, then The Data Wrangling Workshop will help to break down the process for you. You’ll start with the basics and build your knowledge, progressing from the core aspects behind data wrangling, to using the most popular tools and techniques.  
 
 ## What you will learn
-* Explore data wrangling with the help of real-world examples and business use cases 
-* Study various ways to extract the most value from your data in minimal time 
-* Boost your knowledge with bonus topics, such as random data generation and data integrity checks 
+* Get to grips with the fundamentals of data wrangling 
+* Understand how to model data with random data generation and data integrity checks 
+* Discover how to examine data with descriptive statistics and plotting techniques 
+* Explore how to search and retrieve information with regular expressions 
+* Delve into commonly-used Python data science libraries  
+* Become well-versed with how to handle and compensate for missing data 
 
 ## Related Workshops
 If you've found this repository useful, you might want to check out some of our other workshop titles:
